@@ -6,6 +6,7 @@ theme = "hugo-theme-codex"
 title = "Asa Needle's Website"
 languageCode = "en-us"
 baseURL = "https://asaneedle.com"
+publishDir = "docs"
 copyright = "© {2020}"
 
 # Add your Disqus shortname here.
