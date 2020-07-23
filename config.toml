@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Asa Needle's Website"
 languageCode = "en-us"
-baseURL = "https://asaneedle.com"
+baseURL = "https://asaneedle.github.io"
 publishDir = "docs"
 copyright = "© {2020}"
 
