@@ -4,7 +4,7 @@ subheading: "he is a software developer, with a side hustle as an ethicist."
 layout: page
 ---
 # *RESUME*
-# **Asa Needle: Software Developer**
+# **Asa Needle: Software Engineer**
 
 1 year of front-end development experience, primarily in Vue.js. Practiced in CI/CD. Background as a nationally-recognized speaker on environmental and economic justice. Passionate about creating socially transformative technologies.
 
