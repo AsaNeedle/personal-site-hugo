@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Asa Needle's Website"
 languageCode = "en-us"
-baseURL = "https://asaneedle.github.io"
+baseURL = "https://asaneedle.com"
 publishDir = "docs"
 copyright = "© {2020}"
 
@@ -49,21 +49,24 @@ copyright = "© {2020}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
+  identifier = "front"
+  name = "front"
+  title = "Front"
   url = "/"
+  weight = -100
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "writing"
+  name = "writing"
+  title = "Writing"
+  url = "/writing"
+  weight = -90
 
 [[menu.main]]
   identifier = "resume"
   name = "resume"
   title = "resume"
   url = "/resume"
+  weight = -80
 
 
