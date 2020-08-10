@@ -1,7 +1,5 @@
 ---
-heading: "this is the internet home of Asa, a software developer and organizer"
+heading: "this is the internet home of "
 subheading: "~ Currently looking for work ~"
 # handle: 
 ---
-Currently looking for work!
-
