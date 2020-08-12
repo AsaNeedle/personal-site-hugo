@@ -1,5 +1,5 @@
 ---
 heading: "this is the internet home of "
-subheading: "~ Currently looking for work ~"
+subheading: "p.s. I'm open to work"
 # handle: 
 ---
