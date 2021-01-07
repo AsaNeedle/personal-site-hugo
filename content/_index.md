@@ -1,5 +1,6 @@
 ---
 heading: "this is the internet home of "
-subheading: "currently open to work"
+subheading: "a software developer and occasional organizer"
 # handle: 
 ---
+say hi at any of the links below
