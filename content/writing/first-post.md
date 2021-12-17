@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon"
+title: "Curiosity Journal"
 date: 2020-07-20T15:37:50-04:00
 slug: ""
 description: ""
