@@ -56,17 +56,17 @@ copyright = "© {2020}"
   weight = -100
 
 [[menu.main]]
-  identifier = "writing"
-  name = "writing"
-  title = "Writing"
-  url = "/writing"
-  weight = -90
-
-[[menu.main]]
   identifier = "resume"
   name = "resume"
   title = "resume"
   url = "/resume"
+  weight = -80
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "portfolio"
+  title = "portfolio"
+  url = "/portfolio"
   weight = -80
 
 
