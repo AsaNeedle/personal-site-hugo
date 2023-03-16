@@ -1,7 +1,7 @@
 ---
 title: "How to Win Philosophy and Influence People"
 date: 2023-03-14T00:00:00
-draft: true
+draft: false
 ---
 
 Link: https://wikipedia-map.herokuapp.com/
