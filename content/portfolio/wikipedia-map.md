@@ -6,7 +6,7 @@ draft: true
 
 Link: https://wikipedia-map.herokuapp.com/
 
-This was a project that I made while at the Recurse Center using the Wikipedia API and Beautiful Soup, and Flask to put in on the internet. 
+This was a project that I made while at the Recurse Center using the Wikipedia API and Beautiful Soup, and Flask to put it on the internet. 
 
 Here is the front page.
 
