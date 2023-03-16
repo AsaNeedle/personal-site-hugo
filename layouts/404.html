@@ -1,0 +1,13 @@
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/404.scss" "dest" "css/404.css") }}
+{{ end }}
+
+{{ define "main" }}
+<article>
+  <h1>
+    This page doesn't exist.
+    If you're here, it's probably because I made a mistake.<br><br><br><br>
+     Sorry about that!
+  </h1>
+</article>
+{{ end }}
