@@ -9,7 +9,17 @@
     <copyright>© {2020}</copyright>
     <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://asaneedle.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Win Philosophy and Influence People</title>
+      <title>Project: Get Movie Recommendations (from my personal favorites)</title>
+      <link>https://asaneedle.com/portfolio/movie-recommender/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asaneedle.com/portfolio/movie-recommender/</guid>
+      <description>Link: https://my-film-club.herokuapp.com/
+This is a project I made in 2020, so I could play around with data from my Letterboxd account (Letterboxd is a website that lets you log and rate movies you&amp;rsquo;ve watch). Movies I&amp;rsquo;ve rated at least a 3.5/5 are recommended based on genre.</description>
+    </item>
+    
+    <item>
+      <title>Project: How to Win Philosophy and Influence People</title>
       <link>https://asaneedle.com/portfolio/wikipedia-map/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
